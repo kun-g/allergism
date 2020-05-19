@@ -1,0 +1,114 @@
+######################## default configuration ####################
+baseURL = "https://today-i-learn.onrender.com/"
+languageCode = "zh-cn"
+title = "过敏日记"
+
+theme = "influencer-hugo"
+
+# influencer-hugo config
+# https://themes.gohugo.io/influencer-hugo/
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/magnific-popup.css"
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/magnific-popup.min.js"
+
+  
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "关于"
+  URL = "book"
+  weight = 1
+  
+  #[[menu.main]]
+  #name = "Chapter"
+  #URL = "chapter"
+  #weight = 2
+  
+  [[menu.main]]
+  name = "评价"
+  URL = "review"
+  weight = 3
+  
+  #[[menu.main]]
+  #name = "Author"
+  #URL = "author"
+  #weight = 4
+  
+  [[menu.main]]
+  name = "文章"
+  URL = "blog"
+  weight = 5
+  
+  [[menu.main]]
+  name = "联系我们"
+  URL = "contact"
+  weight = 6
+
+
+#################### default parameters ################################
+[params]
+logo = ""
+home = "Home"
+# Meta data
+description = "过敏日记，记录、定位过敏源。Allergy diary, find allergy source."
+author = "Kun"
+# Google Analitycs TODO
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "Copyright &copy; 2020 [MMBF](https://www.allergism.com) All Rights Reserved"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # Navigation get start button
+  [params.navButton]
+  enable = true
+
+  
+############################# Footer ########################
+[params.footer]
+content = "这段话和右边的控件会出现在所有的页面下面👉"
+
+
+############################# post share ###################
+[[params.share]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "#"
