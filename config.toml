@@ -72,8 +72,8 @@ home = "Home"
 # Meta data
 description = "过敏日记，记录、定位过敏源。Allergy diary, find allergy source."
 author = "Kun"
-# Google Analitycs TODO
-googleAnalitycsID = "Your ID"
+# Google Analitycs
+googleAnalitycsID = "UA-167114112-1"
 # copyright
 copyright = "Copyright &copy; 2020 [MMBF](https://www.allergism.com) All Rights Reserved"
 
