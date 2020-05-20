@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 过敏日记</title>
-    <link>https://www.allergism.com/categories/</link>
+    <link>http://www.allergism.com/categories/</link>
     <description>Recent content in Categories on 过敏日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate>
     
-	<atom:link href="https://www.allergism.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.allergism.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creative</title>
-      <link>https://www.allergism.com/categories/creative/</link>
+      <link>http://www.allergism.com/categories/creative/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
       
-      <guid>https://www.allergism.com/categories/creative/</guid>
+      <guid>http://www.allergism.com/categories/creative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Language</title>
-      <link>https://www.allergism.com/categories/go-language/</link>
+      <link>http://www.allergism.com/categories/go-language/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
       
-      <guid>https://www.allergism.com/categories/go-language/</guid>
+      <guid>http://www.allergism.com/categories/go-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Book</title>
-      <link>https://www.allergism.com/categories/new-book/</link>
+      <link>http://www.allergism.com/categories/new-book/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
       
-      <guid>https://www.allergism.com/categories/new-book/</guid>
+      <guid>http://www.allergism.com/categories/new-book/</guid>
       <description></description>
     </item>
     

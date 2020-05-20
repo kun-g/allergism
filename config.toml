@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.allergism.com/"
+baseURL = "http://www.allergism.com/"
 languageCode = "zh-cn"
 title = "过敏日记"
 
