@@ -3,6 +3,8 @@ baseURL = "https://www.allergism.com/"
 languageCode = "zh-cn"
 title = "过敏日记"
 
+publishDir = "docs"
+
 theme = "influencer-hugo"
 
 # influencer-hugo config
